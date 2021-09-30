@@ -5,7 +5,6 @@ weight: 15
 
 interval: false
 
----
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
