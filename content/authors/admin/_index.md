@@ -1,6 +1,6 @@
 ---
 title: Naim Sejtanic
-role: Economics Georgia Tech
+role: Economics <br>Georgia Tech
 avatar_filename: 12983859_1045444162195075_8510262682122323556_o.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
