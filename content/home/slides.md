@@ -12,7 +12,7 @@ summary: Hi!
 draft: false
 slides:
   theme: black
-image:
+overlay_img:
   filename: 242494170_138603271816669_2224309036415822396_n.jpg
   focal_point: Smart
   preview_only: false
