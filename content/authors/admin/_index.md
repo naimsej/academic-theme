@@ -1,29 +1,22 @@
 ---
 title: Naim Sejtanic
-role: Economics <br>Georgia Tech
+role: Economics <br>Georgia Institute of Technology
 avatar_filename: 12983859_1045444162195075_8510262682122323556_o.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - DataScience
+  - Data Science
   - Economics
   - Music
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:naimsej@gatech.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/naimsej
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/naimsej
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
