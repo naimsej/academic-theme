@@ -1,7 +1,7 @@
 ---
 title: Naim Sejtanic
 role: Economics <br>Georgia Institute of Technology
-avatar_filename: 12983859_1045444162195075_8510262682122323556_o.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Science
