@@ -7,8 +7,8 @@
 
 theme: minimal
 day_night: true
-font: 'Lora'
-font_size: M
+font: ''
+font_size: L
 
 # SEO
 
