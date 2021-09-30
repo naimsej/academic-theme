@@ -11,8 +11,8 @@ primary_dark = "#0069c0"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#F2E829"
+menu_text = "#7ca8d1"
+menu_text_active = "#f1b625"
 menu_title = "#989898"
 
 # Home sections
