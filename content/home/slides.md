@@ -9,5 +9,6 @@ image:
   filename: 242494170_138603271816669_2224309036415822396_n.jpg
   focal_point: Smart
   preview_only: false
+weight: 15
 ---
 Hi!
