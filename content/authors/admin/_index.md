@@ -27,6 +27,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a senior at Georgia Tech University majoring in economics. My coursework includes areas in mathematics, statistics, economics, and computer science. On top of my coursework, I am always searching for new opportunities to learn more about methods and technologies used in data science.
+I am a senior at Georgia Tech University majoring in Economics. My coursework includes areas in mathematics, statistics, economics, and computer science. On top of my coursework, I am always looking for new opportunities to learn more about methods and technologies used in data science.
 
-Outside of class, I enjoy writing music, playing the guitar, and playing sports tennis. I am always excited to talk to anyone interested about my work or my hobbies so don’t hesitate to contact me here or on LinkedIn!
+Outside of class, I enjoy writing music, playing the guitar, and playing tennis. I am always excited to talk to anyone interested about my projects or my hobbies so don’t hesitate to contact me here or on LinkedIn!
