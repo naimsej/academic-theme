@@ -7,7 +7,6 @@ interests:
   - Data Science
   - Economics
   - Music
-  - TEST
 social:
   - icon: envelope
     icon_pack: fas
