@@ -1,6 +1,7 @@
 ---
 widget: slider
 headless: true
+weight: 15
 
 interval: false
 
