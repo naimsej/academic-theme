@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: naimsej@gatech.edu
-phone:
+email:
+phone: 404 702 6746
 address:
   street: North Ave NW
   city: Atlanta
@@ -35,6 +35,17 @@ coordinates:
 directions: 
 office_hours:
 appointment_url:
+
+# Map
+  geo:
+    title       : Map title
+    # Use pixel for width as well
+    width       : 100%
+    height      : 300
+    pre_embed   : https://www.openstreetmap.org/export/embed.html?
+    embed       : bbox=9.363741874694826%2C51.97525849656705%2C9.38659429550171%2C51.99197609916384&amp;layer=mapnik&amp;
+    map_big     : mlat=51.9836&amp;mlon=9.3752#map=16/51.9836/9.3752
+    map_big_text: Bigger map please
 
 # Site header
 
