@@ -1,8 +1,7 @@
 ---
 title: Analyzing Spotify Data in Python
 summary: A deep dive in musical data using Pandas
-tags: 
--Python
+tags: -Python
 date: “2019-02-03T22:13:30-08:00”
 
 # Optional external URL for project (replaces project detail page).
