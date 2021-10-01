@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: slider
 headless: true  # This file represents a page section.
 weight: 5
 # ... Put Your Section Options Here (title etc.) ...
