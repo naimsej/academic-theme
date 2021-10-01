@@ -1,11 +1,11 @@
 ---
-widget: slider
+widget: hero
 headless: true  # This file represents a page section.
 weight: 5
 # ... Put Your Section Options Here (title etc.) ...
 
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
-hero_media: ''
+hero_media: '242494170_138603271816669_2224309036415822396_n.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
