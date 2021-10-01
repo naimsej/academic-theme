@@ -11,13 +11,13 @@ interval: false
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height: ""
+height: 300px
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 item:
-  title: Hello
-  content:
+- title: Hello
+  content: 'test'
   align: center  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,8 +34,7 @@ item:
   cta_icon_pack: fas
   cta_icon: graduation-cap
 
-item:
-  title: Left
+- title: Left
   content: 
   align: left
 
@@ -43,8 +42,7 @@ item:
   #overlay_img: ""  # Image path relative to your `static/img/` folder.
   #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
 
-item:
-  title: Right
+- title: Right
   content:
   align: right
 
