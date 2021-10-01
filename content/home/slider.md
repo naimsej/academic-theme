@@ -16,8 +16,8 @@ height: 300px
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 item:
-- title: Hello
-  content: 'test'
+- title: Hey! I'm Naim
+  content: I tackle everyday problems by analyzing data
   align: center  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,19 +34,11 @@ item:
   cta_icon_pack: fas
   cta_icon: graduation-cap
 
-- title: Left
-  content: 
-  align: left
+- title: Project Title
+  content: Project subtitle
+  align: center
 
   #overlay_color: "#555"  # An HTML color value.
-  #overlay_img: ""  # Image path relative to your `static/img/` folder.
-  #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
-
-- title: Right
-  content:
-  align: right
-
-  #overlay_color: "#333"  # An HTML color value.
   #overlay_img: ""  # Image path relative to your `static/img/` folder.
   #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
 ---
