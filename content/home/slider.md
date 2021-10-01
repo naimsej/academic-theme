@@ -1,0 +1,4 @@
+---
+widget: slider
+headless: false
+---
