@@ -16,7 +16,7 @@ height: 325px
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 item:
-- title: Hey! I'm Naim,
+- title: Hey! I'm Naim
   content: I tackle everyday problems by analyzing data
   align: center  # Choose `center`, `left`, or `right`.
 
