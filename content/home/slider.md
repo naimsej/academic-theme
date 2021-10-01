@@ -40,8 +40,8 @@ item:
   overlay_img: slide1.jpg
   cta_label: Read Project
   cta_url: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
-  #cta_icon_pack:
-  #cta_icon:
+  cta_icon_pack: fas
+  cta_icon: music
   #overlay_color: "#555"  # An HTML color value.
   #overlay_img: ""  # Image path relative to your `static/img/` folder.
   #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
