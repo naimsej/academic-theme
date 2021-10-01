@@ -34,7 +34,7 @@ item:
   #cta_icon_pack: fas
   #cta_icon: graduation-cap
 
-- title: Analyzing Spotify Data in Python
+- title: Analyzing Spotify Data in Python test
   content: A deep dive in musical data with Pandas
   align: center
   overlay_img: slide1.jpg
