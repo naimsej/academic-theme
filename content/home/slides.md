@@ -12,4 +12,8 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
+image:
+  filename: 242494170_138603271816669_2224309036415822396_n.jpg
+  focal_point: Smart
+  preview_only: false
 ---
