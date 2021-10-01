@@ -1,7 +1,8 @@
 ---
 title: Analyzing Spotify Data in Python
 summary: A deep dive in musical data using Pandas
-tags: -Python
+tags:
+- Python
 date: “2019-02-03T22:13:30-08:00”
 
 # Optional external URL for project (replaces project detail page).
@@ -16,10 +17,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-  url_code: ""
-  url_pdf: ""
-  url_slides: ""
-  url_video: ""
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
