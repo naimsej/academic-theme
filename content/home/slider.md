@@ -39,7 +39,7 @@ item:
   align: center
   overlay_img: slide1.jpg
   cta_label: Read Project
-  cta_url: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+  cta_url: https://www.naimsej.dev/project/spotify/
   cta_icon_pack: fas
   cta_icon: music
   #overlay_color: "#555"  # An HTML color value.
