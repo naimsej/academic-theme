@@ -3,7 +3,7 @@ title: Analyzing Spotify Data in Python
 summary: A deep dive in musical data using Pandas
 tags:
 - Python
-date: "2020-01-19T08:03:00-05:00"
+date: "2021-07-01T12:00:00-05:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

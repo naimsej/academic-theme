@@ -3,7 +3,7 @@ title: Financial Forecasting in R
 summary: Analyzing time series data
 tags:
 - R
-date: “2021-07-01T20:00:00-06:00”
+date: "2021-07-01T12:00:00-05:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
