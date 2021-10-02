@@ -9,8 +9,8 @@ date: “2021-10-01T20:00:00-06:00”
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
