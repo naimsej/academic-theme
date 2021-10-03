@@ -1,5 +1,5 @@
 ---
-title: Naim Sejtanic
+title: Naim_Sejtanic
 role: Economics <br>Georgia Institute of Technology
 avatar_filename: avatar.jpg
 bio: ""
