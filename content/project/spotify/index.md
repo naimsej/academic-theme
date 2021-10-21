@@ -20,4 +20,4 @@ image:
 slides: ""
 ---
 
-Let's analyze music!
+Let's analyze music

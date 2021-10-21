@@ -20,4 +20,4 @@ image:
 slides: ""
 ---
 
-Let's analyze financial data!
+Analyzing various financial datasets.
