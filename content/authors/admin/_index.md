@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Science
-  - Economics
+  - Econometrics
   - Music
 social:
   - icon: envelope
