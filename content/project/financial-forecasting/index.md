@@ -35,3 +35,5 @@ Analyzing various financial time series datasets with models including CAPM, ARM
 [Click here to see Github Repository](https://github.com/naimsej/ARMA-VECM-Financial-Analysis)
 
 ## Analyzing Commodity and Inflation Data <br>
+[Click here to see Full Project](https://naimsej.github.io/Analyzing-Commodity-and-Inflation-Data/)<br>
+[Click here to see Github Repository](https://github.com/naimsej/Analyzing-Commodity-and-Inflation-Data/)
