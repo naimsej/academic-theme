@@ -20,7 +20,7 @@ image:
 slides: ""
 ---
 
-Analyzing various financial datasets with models including CAPM,
+Analyzing various financial time series datasets with models including CAPM,
 
 CAPM Model Analysis
 [Click here to see Full Project](naimsej.github.io/CAPM-Financial-Analysis/)
