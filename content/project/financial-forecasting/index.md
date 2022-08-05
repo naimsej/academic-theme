@@ -20,8 +20,12 @@ image:
 slides: ""
 ---
 
-Analyzing various financial time series datasets with models including CAPM,
+Analyzing various financial time series datasets with models including CAPM, ARMA, and VECM.
 
 ## CAPM Model Analysis <br>
 [Click here to see Full Project](https://naimsej.github.io/CAPM-Financial-Analysis/)<br>
 [Click here to see Github Repository](https://github.com/naimsej/CAPM-Financial-Analysis)
+
+## ARMA Model Analysis <br>
+
+## VECM Model Analysis <br>
