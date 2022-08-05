@@ -20,7 +20,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: B.S. Candidate in Economics
+    - course: B.S. in Economics
       institution: Georgia Institute of Technology
       year: 2021
 email: ""
