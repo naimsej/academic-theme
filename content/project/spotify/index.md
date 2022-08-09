@@ -59,7 +59,7 @@ So, how has music been changing over time? We can answer this by observing the t
 <img src="IMG5.png" width="500" height="500"/>
 <br>
 
-In accordance with the trend known as the loudness wars, we can see that the loudness of songs has continuously trended upward since the 1950s. Interestingly enough, loudness reached its' peak circa 2010, and has since steadily been declining to 90s levels. Music constantly goes through phases in order to be fresh to the ears, so its' no surprise that after reaching what might perhaps be the "loudness limit" humans can take from their songs, it started trending downward rather than stagnating at the peak.
+In accordance with the trend known as the loudness wars, we can see that the loudness of songs has continuously trended upward since the 1950s. Interestingly enough, loudness reached its' peak circa 2010, and has since steadily been declining to 90s levels. Music constantly goes through phases in order to remain fresh sounding on the ears, so its' no surprise that after reaching what might perhaps be the "loudness limit" humans can take from their songs, it started trending downward rather than stagnating at the peak.
 
 <img src="IMG6.png" width="700" height="700"/>
 <br>
