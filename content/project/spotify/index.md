@@ -22,7 +22,7 @@ slides: ""
 
 ## Analyzing a Spotify dataset using Pandas in Python
 <br>
-For this project, I will be analyzing a Spotify dataset (which can be found in my Github repository for this project) that carries various information on artists’ songs from 1920-2021. The whole file has multiple datasets, but I have chosen three datasets to analyze — “data_by_year”, “data_by_genre”, and “data_by_artist”. So, how exactly have songs changed over the years? What's the most popular genre on Spotify? Let’s find all of this out and more.
+For this project, I will be analyzing a Spotify dataset (which can be found in my [Github repository](https://github.com/naimsej/Analyzing-Spotify-Data-in-Python) for this project) that carries various information on artists’ songs from 1920-2021. The whole file has multiple datasets, but I have chosen three datasets to analyze — “data_by_year”, “data_by_genre”, and “data_by_artist”. So, how exactly have songs changed over the years? What's the most popular genre on Spotify? Let’s find all of this out and more.
 <br>
 
 ### <b>Analyzing the “data_by_year” dataset</b>
@@ -93,13 +93,21 @@ Finally, we can analyze our final dataset, which contains all of the many differ
 
 Well, it's one thing to have the most amount of songs published on Spotify, but it's another to have the highest rate of "liveness" (which according to Spotify, describes the probability that the song was recorded with a live audience). Only the most talented of artists can get away with this, and coming in at the top is the band Stevie Ray Vaughan And Double Trouble.
 
-<img src="IMG9.png" width="600" height="500"/>
+<img src="IMG9.png" width="700" height="600"/>
 <br>
 
+For our final analysis, we can use this dataset and compare the correlation between "danceability" (describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity)  and "tempo". One might assume that the higher tempo a track is, the higher its' danceability is. Well, that seems true up until a point. Right around 120-130 BPM, tracks tend to have higher danceability, where as anything slower and anything higher than this range seems to have less danceability.
+
+<img src="IMG9.png" width="800" height="800"/>
+<br>
 
 ### <b>Summary</b>
 
+As with pretty much any other topic nowadays, we have access to a trove of music data, of which Spotify has provided us, to analyze. We found some interesting observations in our analysis as a result, such as that the loudness wars finally started to reverse around 2010 as streaming services began to normalize audio by default. We also found that a Uruguayan violinist has uploaded over 3000 (!) songs to Spotify, and genres such as Chinese electropop are very popular. Perhaps most interestingly, we learned that in order to maximize "danceability" of a track, you should stick to around 120-130 BPM, which most likely explains why most club tracks are written in this very range.
 
+If you're still curious and want to do your own analysis, my dataset and Python code used here are available in the Github repository below!
+
+[Click here to see Github Repository](https://github.com/naimsej/Analyzing-Spotify-Data-in-Python)
 
 
 
