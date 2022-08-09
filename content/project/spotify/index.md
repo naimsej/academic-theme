@@ -20,4 +20,5 @@ image:
 slides: ""
 ---
 
-Let's analyze music
+## Analyzing a Spotify dataset using Pandas in Python.
+
