@@ -41,6 +41,7 @@ No cleaning needed for this dataset, we import and the fun begins.
 #### Exploration and Data Visualization
 <br>
 
+##### Correlations between features
 We can start off our analysis by finding the correlation between the different music features.
 
 <img src="IMG2.png" width="600" height="200"/>
@@ -50,7 +51,7 @@ We can start off our analysis by finding the correlation between the different m
 As you can see above, some of the more correlated features are: loudness and energy, acousticness and instrumentalness, and energy and danceability. Loudness/energy and energy/danceability are self explanatory, but it's interesting to note that the more acoustic a song tends to be, the more instrumentalness (amount of vocals) it has. Definitely need the vocals to shine more when there's less instruments to hide them behind!
 <br>
 
-So how has music been changing over time? We can answer this by observing the changes in the music features over the years.
+So, how has music been changing over time? We can answer this by observing the changes in the music features over the years.
 
 <img src="IMG4.png" width="600" height="200"/>
 <img src="IMG5.png" width="500" height="500"/>
