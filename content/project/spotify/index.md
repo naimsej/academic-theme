@@ -35,10 +35,9 @@ No cleaning needed for this dataset, we import and the fun begins.
 #### Exploration and Data Visualization
 
 
-### <b>Analyzing the “data_by_artist” dataset</b>
-
-
 ### <b>Analyzing the “data_by_genre” dataset</b>
+
+### <b>Analyzing the “data_by_artist” dataset</b>
 
 ### <b>Summary</b>
 
