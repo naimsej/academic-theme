@@ -40,7 +40,7 @@ No cleaning needed for this dataset, we import and the fun begins.
 
 #### Exploration and Data Visualization
 
-##### Correlations between features
+##### Correlations between features of music
 <br>
 
 We can start off our analysis by finding the correlation between the different music features.
@@ -52,7 +52,7 @@ We can start off our analysis by finding the correlation between the different m
 As you can see above, some of the more correlated features are: loudness and energy, acousticness and instrumentalness, and energy and danceability. Loudness/energy and energy/danceability are self explanatory, but it's interesting to note that the more acoustic a song tends to be, the more instrumentalness (amount of vocals) it has. Definitely need the vocals to shine more when there's less instruments to hide them behind!
 <br>
 
-##### Changes over time
+##### Observing changes in trends over time
 So, how has music been changing over time? We can answer this by observing the trends in the music features over the years.
 
 <img src="IMG4.png" width="600" height="200"/>
@@ -66,6 +66,18 @@ In accordance with the trend known as the loudness wars, we can see that the lou
 Observing the tempo changes over time, we can see that music has gotten significantly faster over the years, but, in a similar fashion to loudness, peaked around 2010, with the trend slowly reversing since then.
 
 ### <b>Analyzing the “data_by_genre” dataset</b>
+
+#### Exploration and Data Visualization
+
+##### Comparing different genres
+<br>
+
+Next, we can analyze the various different music genres and see how they compare with each other. As you can see below, the most popular genre according to Spotify's metric "popularity" (According to Spotify, “popularity is calculated by an algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are) is Chinese electropop! Definitely a surprise, but it only makes sense for the country with the highest population in the world to have a very popular genre.
+We can also notice the loudest genres on Spotify, which is shown to be J-idol, a type of Japanese pop music. And no surprise that a black metal genre gets in the top 10, either.
+
+<img src="IMG7.png" width="700" height="700"/>
+<br>
+
 
 ### <b>Analyzing the “data_by_artist” dataset</b>
 
