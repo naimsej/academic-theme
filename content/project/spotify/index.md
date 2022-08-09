@@ -41,6 +41,8 @@ No cleaning needed for this dataset, we import and the fun begins.
 #### Exploration and Data Visualization
 
 ##### Correlations between features
+<br>
+
 We can start off our analysis by finding the correlation between the different music features.
 
 <img src="IMG2.png" width="600" height="200"/>
