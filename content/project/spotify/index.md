@@ -86,7 +86,7 @@ We can also notice the loudest genres on Spotify, which is shown to be J-idol, a
 ##### Comparing the many artists on Spotify
 <br>
 
-Finally, we can analyze our final dataset which contains all of the many different artists found on Spotify. So, which artist has the most amount of work on Spotify? Well, none other than Francisco Cannaro, a Uruguayan violinist who has over 3000 songs published on Spotify! The well known Frank Sinatra comes in at number 5.
+Finally, we can analyze our final dataset, which contains all of the many different artists found on Spotify. So, which artist has the most amount of work on Spotify? Well, none other than Francisco Cannaro, a Uruguayan violinist who has over 3000 songs published on Spotify! The well known Frank Sinatra comes in at number 5.
 
 <img src="IMG8.png" width="800" height="800"/>
 <br>
