@@ -30,7 +30,7 @@ For this project, I will be analyzing a Spotify dataset (which can be found in m
 #### Import and Clean Data
 First, I will import the libraries that will be needed in the whole data analysis process. In addition to Pandas, I will use the Seaborn library for data visualization.
 
-<img src="IMG1.jpg">
+<img src="IMG1.png" width="300" height="400"/>
 
 
 No cleaning needed for this dataset, we import and the fun begins.
