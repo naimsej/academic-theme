@@ -21,8 +21,10 @@ slides: ""
 ---
 
 ## Analyzing a Spotify dataset using Pandas in Python
+<br>
+For this project, I will analyze a Spotify dataset. The Spotify dataset (which can be found in my Github repository for this project) carries various information on artists’ songs from 1920-2021. The whole file has multiple datasets, but I have chosen three datasets to analyze — “data_by_year”, “data_by_genre”, and “data_by_artist”. So how exactly have songs changed over the years? What's the most popular genre on Spotify? Let’s find this out and more.
 
-For this project, I will analyze a Spotify dataset. The Spotify dataset carries various information on artists’ songs from 1920-2021. The whole file has multiple datasets, but I have chosen three datasets to analyze — “data_by_year”, “data_by_genre”, and “data_by_artist”. So how exactly have songs changed over the years? What's the most popular genre on Spotify? Let’s find this out and more!
+
 
 
 
