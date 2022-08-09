@@ -39,7 +39,6 @@ First, I will import the libraries that will be needed in the whole data analysi
 No cleaning needed for this dataset, we import and the fun begins.
 
 #### Exploration and Data Visualization
-<br>
 
 ##### Correlations between features
 We can start off our analysis by finding the correlation between the different music features.
@@ -51,11 +50,18 @@ We can start off our analysis by finding the correlation between the different m
 As you can see above, some of the more correlated features are: loudness and energy, acousticness and instrumentalness, and energy and danceability. Loudness/energy and energy/danceability are self explanatory, but it's interesting to note that the more acoustic a song tends to be, the more instrumentalness (amount of vocals) it has. Definitely need the vocals to shine more when there's less instruments to hide them behind!
 <br>
 
-So, how has music been changing over time? We can answer this by observing the changes in the music features over the years.
+##### Changes over time
+So, how has music been changing over time? We can answer this by observing the trends in the music features over the years.
 
 <img src="IMG4.png" width="600" height="200"/>
 <img src="IMG5.png" width="500" height="500"/>
+<br>
 
+In accordance with the trend known as the loudness wars, we can see that the loudness of songs has continuously trended upward since the 1950s. Interestingly enough, loudness reached its' peak circa 2010, and has since steadily been declining to 90s levels. Music constantly goes through phases in order to be fresh to the ears, so its' no surprise that after reaching what might perhaps be the "loudness limit" humans can take from their songs, it started trending downward rather than stagnating at the peak.
+
+<img src="IMG6.png" width="700" height="700"/>
+<br>
+Observing the tempo changes over time, we can see that music has gotten significantly faster over the years, but, in a similar fashion to loudness, peaked around 2010, with the trend slowly reversing since then.
 
 ### <b>Analyzing the “data_by_genre” dataset</b>
 
