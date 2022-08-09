@@ -28,6 +28,8 @@ For this project, I will be analyzing a Spotify dataset (which can be found in m
 ### <b>Analyzing the “data_by_year” dataset</b>
 
 #### Import and Clean Data
+<br>
+
 First, I will import the libraries that will be needed in the whole data analysis process. In addition to Pandas, I will use the Seaborn library for data visualization.
 
 <img src="IMG1.png" width="600" height="800"/>
@@ -37,6 +39,15 @@ First, I will import the libraries that will be needed in the whole data analysi
 No cleaning needed for this dataset, we import and the fun begins.
 
 #### Exploration and Data Visualization
+<br>
+
+We can start off our analysis by finding the correlation between the different music features.
+
+<img src="IMG2.png" width="600" height="200"/>
+<img src="IMG3.png" width="500" height="500"/>
+<br>
+
+As you can see above, some of the more correlated features are: loudness and energy, acousticness and instrumentalness, and energy and danceability. Loudness/energy and energy/danceability are self explanatory, but it's interesting to note that the more acoustic a song tends to be, the more instrumentalness (amount of vocals) it has. Definitely need the vocals to shine more when there's less instruments to hide them behind.
 
 
 ### <b>Analyzing the “data_by_genre” dataset</b>
