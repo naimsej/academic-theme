@@ -67,7 +67,7 @@ Observing the tempo changes over time, we can see that music has gotten signific
 
 ### <b>Analyzing the “data_by_genre” dataset</b>
 
-#### Exploration and Data Visualization
+#### Exploration
 
 ##### Comparing different genres
 <br>
@@ -80,6 +80,22 @@ We can also notice the loudest genres on Spotify, which is shown to be J-idol, a
 
 
 ### <b>Analyzing the “data_by_artist” dataset</b>
+
+#### Exploration and Data Visualization
+
+##### Comparing the many artists on Spotify
+<br>
+
+Finally, we can analyze our final dataset which contains all of the many different artists found on Spotify. So, which artist has the most amount of work on Spotify? Well, none other than Francisco Cannaro, a Uruguayan violinist who has over 3000 songs published on Spotify! The well known Frank Sinatra comes in at number 5.
+
+<img src="IMG8.png" width="800" height="800"/>
+<br>
+
+Well, it's one thing to have the most amount of songs published on Spotify, but it's another to have the highest rate of "liveness" (which according to Spotify, describes the probability that the song was recorded with a live audience). Only the most talented of artists can get away with this, and coming in at the top is the band Stevie Ray Vaughan And Double Trouble.
+
+<img src="IMG9.png" width="600" height="500"/>
+<br>
+
 
 ### <b>Summary</b>
 
