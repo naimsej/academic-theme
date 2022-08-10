@@ -72,7 +72,7 @@ Observing the tempo changes over time, we can see that music has gotten signific
 ##### Comparing different genres
 <br>
 
-Next, we can analyze the various different music genres and see how they compare with each other. As you can see below, the most popular genre according to Spotify's metric "popularity" (popularity is calculated by an algorithm and is based, in the most part, on the total number of plays the track has had and how recent those plays are) is Chinese electropop! Definitely a surprise, but it only makes sense for the country with the highest population in the world to have a very popular genre.
+Next, we can analyze the various different music genres and see how they compare with each other. As you can see below, the most popular genre according to Spotify's metric "popularity" (popularity is calculated by an algorithm and is based, for the most part, on the total number of plays the track has had and how recent those plays are) is Chinese electropop! Definitely a surprise, but it only makes sense for the country with the highest population in the world to have a very popular genre.
 We can also notice the loudest genres on Spotify, which is shown to be J-idol, a type of Japanese pop music. And no surprise that a black metal genre gets in the top 10 for loudness as well!
 
 <img src="IMG7.png" width="700" height="700"/>
