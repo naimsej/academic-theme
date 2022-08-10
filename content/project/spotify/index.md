@@ -104,7 +104,7 @@ For our final analysis, we can use this same dataset and compare the correlation
 
 As with pretty much any other topic nowadays, we have access to a trove of data to analyze, in this case music data of which Spotify has provided us. We found some interesting observations in our analysis as a result, such as that the loudness wars finally started to reverse around 2010, coinciding right around the time that streaming services began to normalize audio by default. We also found out that a Uruguayan violinist has uploaded over 3000 (!) songs to Spotify, and noticed genres such as Chinese electropop being very popular. Perhaps most interestingly, we learned that in order to maximize "danceability" of a track, you should stick to around 120-130 BPM, which likely explains why most club tracks are written in this very range.
 
-If you're still curious and want to do your own analysis, my dataset and Python code used here are available in the Github repository below!
+If you're still curious and want to do your own analysis, the dataset I used here and my Python code are available in the Github repository below!
 
 [Click here to see Github Repository](https://github.com/naimsej/Analyzing-Spotify-Data-in-Python)
 
