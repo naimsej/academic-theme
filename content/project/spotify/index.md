@@ -98,7 +98,7 @@ Well, it's one thing to have the most amount of songs published on Spotify, but 
 
 For our final analysis, we can use this same dataset and compare the correlation between "danceability" (describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity)  and "tempo". One might assume that the higher tempo a track is, the higher its' danceability is. Well, that seems true up until a point. Right around 120-130 BPM, tracks tend to have higher danceability, where as anything slower and anything higher than this range seems to have less danceability.
 
-<img src="IMG9.png" width="800" height="800"/>
+<img src="IMG10.png" width="800" height="800"/>
 <br>
 
 ### <b>Summary</b>
